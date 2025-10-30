@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Zip files
+*.zip
+
+# PDF files (optional - uncomment if you don't want to track PDFs)
+# *.pdf
+
+# Racket/Scheme compiled files
+*.zo
+compiled/
+
+# Editor files
+*~
+*.swp
+*.swo
+.vscode/
+.idea/
